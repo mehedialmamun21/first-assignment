@@ -1,4 +1,37 @@
-h1{
-    color: green;
-    background: orange;
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.link-1{
+    text-decoration: none;
+    color: white;
+    background-color: #f04628d7;
+    padding: 7px 21px;
+    border-radius: 5px;
+}
+.sec-1{
+    display: flex;
+    margin-top: 5%;
+}
+.div-1{
+    padding-left: 10%;
+}
+.div-1 img{
+    width: 50%;
+    padding-left: 5%;
+}
+.big-head1{
+    font-size: 50px;
+    padding-left: 10px;
+}
+.big-head2{
+    font-size: 45px;
+    text-align: center;
+}
+.triple-flex{
+    display: flex;
+    padding-left: 10%;
+}
+.triple-div{
+    width: 50%;
 }
