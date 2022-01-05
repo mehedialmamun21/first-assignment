@@ -23,9 +23,10 @@ body{
 .big-head1{
     font-size: 50px;
     padding-left: 10px;
+    border-left: 3px solid rgba(255, 99, 71, 0.89);
 }
 .big-head2{
-    font-size: 45px;
+    font-size: 40px;
     text-align: center;
 }
 .triple-flex{
@@ -33,5 +34,6 @@ body{
     padding-left: 10%;
 }
 .triple-div{
-    width: 50%;
+    width: 20%;
+    padding-left: 7%;
 }
