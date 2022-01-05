@@ -38,23 +38,8 @@ body{
     margin-left: 10%;
 }
 .triple-div1{
-    background-color: rgba(245, 222, 179, 0.541);
     padding: 2%;
     border-radius: 15px;
     width: 50%;
-    margin-left: 15px;
-}
-.triple-div2{
-    background-color: #ffc0cbd3;
-    padding: 2%;
-    border-radius: 15px;
-    width: 50%;
-    margin-left: 15px;
-}
-.triple-div3{
-    background-color: #eee8aa8e;
-    padding: 2%;
-    border-radius: 15px;
-    width: 50%;
-    margin-left: 15px;
+    margin-left: 20px;
 }
