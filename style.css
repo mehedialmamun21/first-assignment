@@ -20,7 +20,7 @@ body{
 #first-img{
     padding-left: 15%;
 }
-.div-1 img{
+.half-width img{
     width: 60%;
     padding-left: 10%;
 }
@@ -62,17 +62,7 @@ body{
 .sec-3{
     display: flex;
     padding-top: 70px;
-    padding-right: 10%;
-    padding-left: 5%;
 }
-.div-1{
-    height: 500px;
+.half-width{
     width: 50%;
-    
-}
-#book-img{
-    width: 250%;
-}
-#develop{
-    padding-right: 30px;
 }
