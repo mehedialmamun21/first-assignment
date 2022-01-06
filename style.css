@@ -23,7 +23,7 @@ body{
 .big-head1{
     font-size: 50px;
     padding-left: 10px;
-    border-left: 3px solid rgba(255, 99, 71, 0.89);
+    border-left: 3px solid #ff6347e3;
 }
 .big-head2{
     font-size: 40px;
