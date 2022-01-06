@@ -66,3 +66,7 @@ body{
 .half-width{
     width: 50%;
 }
+#bg-img{
+    background-image: url(images/shape-1.png);
+    
+}
