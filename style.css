@@ -12,13 +12,14 @@ body{
 .sec-1{
     display: flex;
     margin-top: 5%;
+    padding-left: 7%;
 }
 .div-1{
     padding-left: 10%;
 }
 .div-1 img{
-    width: 50%;
-    padding-left: 5%;
+    width: 60%;
+    padding-left: 10%;
 }
 .big-head1{
     font-size: 50px;
@@ -57,4 +58,12 @@ body{
 }
 .sec-3{
     display: flex;
+    padding-top: 70px;
+    padding-right: 10%;
+    padding-left: 7%;
+}
+.div-1{
+    height: 500px;
+    width: 100%;
+    padding-left: 5%;
 }
