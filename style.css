@@ -97,8 +97,7 @@ body{
 }
 .web-app{
     display: flex;
+    padding-top: 10%;
 }
-#mobile-head{
-    text-align: center;
-}
+
 
