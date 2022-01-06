@@ -12,10 +12,13 @@ body{
 .sec-1{
     display: flex;
     margin-top: 5%;
-    padding-left: 7%;
+    padding-left: 12%;
 }
-.div-1{
-    padding-left: 10%;
+#stay-focus{
+    width: 700px;
+}
+#first-img{
+    padding-left: 15%;
 }
 .div-1 img{
     width: 60%;
@@ -60,10 +63,16 @@ body{
     display: flex;
     padding-top: 70px;
     padding-right: 10%;
-    padding-left: 7%;
+    padding-left: 5%;
 }
 .div-1{
     height: 500px;
-    width: 100%;
-    padding-left: 5%;
+    width: 50%;
+    
+}
+#book-img{
+    width: 250%;
+}
+#develop{
+    padding-right: 30px;
 }
