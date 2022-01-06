@@ -91,10 +91,14 @@ body{
     background-repeat: no-repeat;
     background-position: right 15% bottom 25%;
 }
-#web-app{
-    display: flex;
-    width: 100%;
+.sec-5{
+    padding-left: 10%;
+    padding-right: 10%;
 }
-.mobile-head{
+.web-app{
+    display: flex;
+}
+#mobile-head{
     text-align: center;
 }
+
