@@ -99,5 +99,12 @@ body{
     display: flex;
     padding-top: 10%;
 }
-
+#last-bg{
+    width: 50%;
+    height: 50%;
+    background-image: url(images/shape-2.png);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
 
