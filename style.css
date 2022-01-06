@@ -68,10 +68,26 @@ body{
 .half-width{
     width: 50%;
 }
-#bg-img{
+#bg-img1{
     width: 70%;
     background-image: url(images/shape-1.png);
     background-size: 150px;
     background-repeat: no-repeat;
     background-position: left;
+}
+.sec-4{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    height: 500px;
+    width: 80%;
+}
+#bg-img2{
+    padding-left: 200px;
+    width: 70%;
+    background-image: url(images/shape-1.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: right 15% bottom 25%;
 }
