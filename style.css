@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
-.link-1{
+.button1{
     text-decoration: none;
     color: white;
     background-color: #f04628d7;
@@ -54,4 +54,7 @@ body{
 }
 #triple-div-id3{
     background-color: #c7c16d42;
+}
+.sec-3{
+    display: flex;
 }
