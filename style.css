@@ -62,11 +62,16 @@ body{
 .sec-3{
     display: flex;
     padding-top: 70px;
+    padding-left: 7%;
+    padding-right: 10%;
 }
 .half-width{
     width: 50%;
 }
 #bg-img{
+    width: 70%;
     background-image: url(images/shape-1.png);
-    
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position: left;
 }
