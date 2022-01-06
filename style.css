@@ -114,8 +114,9 @@ body{
 }
 #footer-id{
     height: 150px;
-    background-color: #0f1316d3;
+    background-color: #01060af3;
     text-align: center;
+    padding: 10px;
 }
 footer h1{
     font-style: italic;
